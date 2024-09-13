@@ -1,0 +1,53 @@
+Oppgave 1a, b og c
+https://code.pyret.org/editor#share=1xNy56zzg98yMXl1JItOAVwJ2N4hLut5Q&v=3e602e3
+(link til oppgave 1 kode i pyret)
+https://drive.google.com/file/d/1fOcwK4KT1YTBtRhWMzSmpNUCn2NJlLqq/view?usp=sharing
+(link til fydiagram i draw.io)
+
+Oppgave 2
+https://code.pyret.org/editor#share=1MMyhOvibXQ3JBFTSavMOvFxAZiiZOzyL&v=3e602e3
+(link til oppgave 2 kode i pyret)
+https://drive.google.com/file/d/1Mez9DjH5WqCMGpZVNgqTVwG8ocVgmPki/view?usp=sharing
+(Link til flydiagram oppgave 2 i draw.io)
+
+Oppgave 3 a, b, c og d
+https://code.pyret.org/editor#share=1EDqX5yhJEm24BT6KZnIGHgWZWOmjMdln&v=3e602e3
+(link til oppgave 3 kode i pyret)
+https://drive.google.com/file/d/1F-g0dcjroq1YnePTZ-gTUrK73_XLYBGC/view?usp=sharing
+(Link til flydiagram for Oppgave 3a, b, c og d)
+
+Kontrakter:
+Oppgave 1c
+# Beregn-usd-eur :: (Number, String) -> Number: 
+# Gitt et beløp i NOK og en valutakode ("USD" eller "EUR"), returnerer funksjonen 
+# den tilsvarende verdien i USD eller EUR. Forutsetter at beløpet i NOK er et tall 
+
+Oppgave 2
+# tegn-olympisk-flagg :: Boolean -> Image 
+# Gitt en boolean verdi (true eller false), returnerer funksjonen et bilde (Image) av et olympisk flagg. 
+# Hvis `farget` er true, blir sirklene tegnet med sine vanlige farger (blå, svart, rød, gul, grønn). 
+# Hvis `farget` er false, blir sirklene tegnet i svart.
+
+Oppgave 3a
+# Gitt en tabell med persondata, returnerer en ny tabell som inneholder personer mellom 30 og 80 år. 
+# Funksjonen filtrerer tabellen basert på alder og returnerer kun personer som er innenfor aldersgruppen. 
+# Den returnerte tabellen inneholder kolonner som navn og alder
+
+Oppgave 3b
+# navn-epost-eldst-yngst :: String -> Row 
+# Gitt en streng ("eldst" eller "yngst"), returnerer funksjonen raden for den eldste eller yngste personen i en tabell, 
+# som inneholder deres fornavn, etternavn og e-post. 
+# Funksjonen bruker tabellens "Alder"-kolonne til å finne den eldste eller yngste personen.
+
+Oppgave 3c
+# mean-age :: -> Number 
+# Returnerer gjennomsnittsalderen fra en tabell som inneholder data om personenes alder. 
+# Funksjonen tar ingen parametere og beregner gjennomsnittet ved hjelp av "Alder"-kolonnen i tabellen.
+
+Oppgave 3d
+# bar-chart :: (Table, String, String) -> Image 
+# Gitt en tabell, en kolonne for kategorier (i dette tilfellet "Fornavn") og en kolonne for verdier (i dette tilfellet "Alder"), 
+# returnerer funksjonen et stolpediagram (Image) som viser fordelingen av verdiene i "Alder"-kolonnen gruppert etter "Fornavn".
+
+Kilder :
+OpenAI (2024). ChatGPT (GPT-4)- https://chat.openai.com/
